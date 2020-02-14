@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC2D56BD-AD6C-4438-86E1-AD30130AC742}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Facturacion_Esteban.My.MyApplication</StartupObject>
+    <RootNamespace>Facturacion_Esteban</RootNamespace>
+    <AssemblyName>Facturacion Esteban</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Feria\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Facturacion Esteban</ProductName>
+    <PublisherName>Esteban Mora</PublisherName>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>3.1.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Facturacion Esteban.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Facturacion Esteban.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\bill_of_document.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7DF32F9B5CEC125A1D49BF016A00E38FECBACCE2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Facturacion Esteban_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.9.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formularios\FrTiquete.designer.vb">
+      <DependentUpon>FrTiquete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrTiquete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Act_Cliente.Designer.vb">
+      <DependentUpon>Fr_Act_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Act_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Act_Inventario.Designer.vb">
+      <DependentUpon>Fr_Act_Inventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Act_Inventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Agregar_Inventario.Designer.vb">
+      <DependentUpon>Fr_Agregar_Inventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Agregar_Inventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Busca_Cliente.Designer.vb">
+      <DependentUpon>Fr_Busca_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Busca_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Clientes.Designer.vb">
+      <DependentUpon>Fr_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Compra_Cliente.Designer.vb">
+      <DependentUpon>Fr_Compra_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Compra_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Condimientos.Designer.vb">
+      <DependentUpon>Fr_Condimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Condimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Config.Designer.vb">
+      <DependentUpon>Fr_Config.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Config.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Crear_Facturas.Designer.vb">
+      <DependentUpon>Fr_Crear_Facturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Crear_Facturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Crea_Cotizacion.Designer.vb">
+      <DependentUpon>Fr_Crea_Cotizacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Crea_Cotizacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CristalReports\CR_Clientes.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_Clientes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CristalReports\CR_FECHAS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_FECHAS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Detalle_Articulos.Designer.vb">
+      <DependentUpon>Fr_Detalle_Articulos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Detalle_Articulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Detalle_Clientes.Designer.vb">
+      <DependentUpon>Fr_Detalle_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Detalle_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Facturas.Designer.vb">
+      <DependentUpon>Fr_Facturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Facturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_historial_productos_vendidos.Designer.vb">
+      <DependentUpon>Fr_historial_productos_vendidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_historial_productos_vendidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_motivo_reimpresion.Designer.vb">
+      <DependentUpon>Fr_motivo_reimpresion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_motivo_reimpresion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Opciones_cargar.Designer.vb">
+      <DependentUpon>Fr_Opciones_cargar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Opciones_cargar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_vista_previa_factura.Designer.vb">
+      <DependentUpon>Fr_vista_previa_factura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_vista_previa_factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\Funciones.vb" />
+    <Compile Include="Modulos\ImprimeFactura.vb" />
+    <Compile Include="Formularios\Fr_Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Inicio.Designer.vb">
+      <DependentUpon>Fr_Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\ImprimeFacturaMatriz.vb" />
+    <Compile Include="Formularios\MEPDataGridView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Modulos\Logger.vb" />
+    <Compile Include="Modulos\Mensajes.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Modulos\MysqlCon.vb" />
+    <Compile Include="Modulos\NativeMethods.vb" />
+    <Compile Include="Formularios\Fr_Opciones_Impresion.Designer.vb">
+      <DependentUpon>Fr_Opciones_Impresion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Opciones_Impresion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\RawPrinterHelper.vb" />
+    <Compile Include="CristalReports\CR_Vendedor.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_Vendedor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Reporte_Clientes.Designer.vb">
+      <DependentUpon>Fr_Reporte_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Reporte_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Reporte_Fechas.Designer.vb">
+      <DependentUpon>Fr_Reporte_Fechas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Reporte_Fechas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Reporte_Vendedores.Designer.vb">
+      <DependentUpon>Fr_Reporte_Vendedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Reporte_Vendedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\Reporte_excel.vb" />
+    <Compile Include="Formularios\RP_CLIENTES.Designer.vb">
+      <DependentUpon>RP_CLIENTES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\RP_CLIENTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\RP_Fecha.Designer.vb">
+      <DependentUpon>RP_Fecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\RP_Fecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\RP_Vendedores.Designer.vb">
+      <DependentUpon>RP_Vendedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\RP_Vendedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\VariablesBD.vb" />
+    <Compile Include="Formularios\Fr_Vendedores.Designer.vb">
+      <DependentUpon>Fr_Vendedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Vendedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Fr_Vendedor_Selecion.Designer.vb">
+      <DependentUpon>Fr_Vendedor_Selecion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Fr_Vendedor_Selecion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formularios\FrTiquete.resx">
+      <DependentUpon>FrTiquete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Act_Cliente.resx">
+      <DependentUpon>Fr_Act_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Act_Inventario.resx">
+      <DependentUpon>Fr_Act_Inventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Agregar_Inventario.resx">
+      <DependentUpon>Fr_Agregar_Inventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Busca_Cliente.resx">
+      <DependentUpon>Fr_Busca_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Clientes.resx">
+      <DependentUpon>Fr_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Compra_Cliente.resx">
+      <DependentUpon>Fr_Compra_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Condimientos.resx">
+      <DependentUpon>Fr_Condimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Config.resx">
+      <DependentUpon>Fr_Config.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Crear_Facturas.resx">
+      <DependentUpon>Fr_Crear_Facturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Crea_Cotizacion.resx">
+      <DependentUpon>Fr_Crea_Cotizacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CristalReports\CR_Clientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_Clientes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CristalReports\CR_FECHAS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_FECHAS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Detalle_Articulos.resx">
+      <DependentUpon>Fr_Detalle_Articulos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Detalle_Clientes.resx">
+      <DependentUpon>Fr_Detalle_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Facturas.resx">
+      <DependentUpon>Fr_Facturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_historial_productos_vendidos.resx">
+      <DependentUpon>Fr_historial_productos_vendidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Inicio.resx">
+      <DependentUpon>Fr_Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_motivo_reimpresion.resx">
+      <DependentUpon>Fr_motivo_reimpresion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Opciones_cargar.resx">
+      <DependentUpon>Fr_Opciones_cargar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_vista_previa_factura.resx">
+      <DependentUpon>Fr_vista_previa_factura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CristalReports\CR_Vendedor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_Vendedor.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Opciones_Impresion.resx">
+      <DependentUpon>Fr_Opciones_Impresion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Reporte_Clientes.resx">
+      <DependentUpon>Fr_Reporte_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Reporte_Fechas.resx">
+      <DependentUpon>Fr_Reporte_Fechas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Reporte_Vendedores.resx">
+      <DependentUpon>Fr_Reporte_Vendedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\RP_CLIENTES.resx">
+      <DependentUpon>RP_CLIENTES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\RP_Fecha.resx">
+      <DependentUpon>RP_Fecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\RP_Vendedores.resx">
+      <DependentUpon>RP_Vendedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Vendedores.resx">
+      <DependentUpon>Fr_Vendedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Fr_Vendedor_Selecion.resx">
+      <DependentUpon>Fr_Vendedor_Selecion.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Facturacion Esteban_ClaveTemporal.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\bill_of_document.ico" />
+    <None Include="Resources\convert2.png" />
+    <None Include="Resources\convert1.png" />
+    <None Include="Resources\images1.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\busquedaFacturabla.png" />
+    <None Include="Resources\busquedaFactura.png" />
+    <None Include="Resources\titulob.png" />
+    <None Include="Resources\Addfile.png" />
+    <None Include="Resources\AddfileOn.png" />
+    <None Include="Resources\candadoOff.png" />
+    <None Include="Resources\candadoOn.png" />
+    <None Include="Resources\Modificarof.png" />
+    <None Include="Resources\ModificarOn.png" />
+    <None Include="Resources\Print.png" />
+    <None Include="Resources\PrintOn.png" />
+    <None Include="Resources\InvoiceOff.png" />
+    <None Include="Resources\InvoiceOn.png" />
+    <None Include="Resources\trashcanOn.png" />
+    <None Include="Resources\trashcan.png" />
+    <None Include="Resources\exit_rojo.png" />
+    <None Include="Resources\exit_azul.png" />
+    <None Include="Resources\8E0.jpg" />
+    <None Include="Resources\BotonFactPeq.png" />
+    <None Include="Resources\test button.png" />
+    <None Include="Resources\BotonAzul.png" />
+    <None Include="Resources\BtnSalirAzul.jpg" />
+    <None Include="Resources\abstract_color_background_picture_8016-1280x800.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

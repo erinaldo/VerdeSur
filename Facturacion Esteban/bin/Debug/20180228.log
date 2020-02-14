@@ -1,0 +1,252 @@
+
+
+
+28/02/2018 16:17:28 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:17:30 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:18:40 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:18:42 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTime& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:21:22 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:21:23 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:21:25 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:22:03 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:22:11 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:22:11 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:22:12 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:22:14 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:22:15 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:24:19 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:24:20 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:25:49 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:25:49 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:25:50 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:25:52 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:25:54 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:29:00 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:29:05 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:29:06 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:29:53 [LERROR] MysqlCon.vb::536 - Error con excepción
+	The connection is already open.
+	System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CUENTA_PEDIDOS_PENDIENTES(Int32& p_cantidad) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 536
+
+
+
+28/02/2018 16:30:00 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:30:01 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:37:11 [LERROR] MysqlCon.vb::588 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 588
+
+
+
+28/02/2018 16:42:41 [LERROR] MysqlCon.vb::589 - Error con excepción
+	Índice fuera de los límites de la matriz.
+	System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   en Facturacion_Esteban.MysqlCon.SEL_PEDIDO_DATOS(Int32 p_id, Int32& p_cliente_id, DateTimePicker& p_fecha, String& p_direccion, Double& p_total) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 589

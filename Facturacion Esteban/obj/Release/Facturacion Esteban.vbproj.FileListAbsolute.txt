@@ -1,0 +1,499 @@
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.AgregarInventario.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.BuscaCliente.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Clientes.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CompraCliente.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Config.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CrearFacturas.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleClientes.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Facturas.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.test.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Vendedores.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleArticulos.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Inventario.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteVendedores.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteClientes.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteFechas.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.FrInicio.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Cliente.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Cliente.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Inventario.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.AgregarInventario.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.BuscaCliente.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Clientes.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CompraCliente.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Config.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CrearFacturas.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleArticulos.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleClientes.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Facturas.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.FrInicio.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteClientes.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteFechas.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteVendedores.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.test.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Vendedores.resources
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.VendedorSelecion.resources
+C:\Users\Rebeca\Downloads\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.VendedorSelecion.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Cliente.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Inventario.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.AgregarInventario.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.BuscaCliente.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Clientes.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CompraCliente.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Config.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CrearFacturas.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleArticulos.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleClientes.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Facturas.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.FrInicio.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteClientes.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteFechas.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteVendedores.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Vendedores.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.VendedorSelecion.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CONDIMENTOS.resources
+C:\Users\Esteban\Documents\Facturacion Esteban 22 12 2015 v2\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Crea_Cotizacion.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\bin\Release\MySql.Data.dll
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Cliente.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Inventario.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.AgregarInventario.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.BuscaCliente.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Clientes.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CompraCliente.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CONDIMENTOS.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Config.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CrearFacturas.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Crea_Cotizacion.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleArticulos.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleClientes.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Facturas.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.FrInicio.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteClientes.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteFechas.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteVendedores.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Vendedores.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.VendedorSelecion.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\bin\Release\MySql.Data.dll
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Cliente.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Inventario.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.AgregarInventario.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.BuscaCliente.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Clientes.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CompraCliente.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CONDIMENTOS.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Config.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CrearFacturas.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Crea_Cotizacion.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleArticulos.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleClientes.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Facturas.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.FrInicio.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteClientes.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteFechas.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteVendedores.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Vendedores.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.VendedorSelecion.resources
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Erick Mora\Documents\Facturacion Esteban 01 04 2016\Impresora termica\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Opciones_Impresion.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\FlashControlV71.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\MySql.Data.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Cliente.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Act_Inventario.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.AgregarInventario.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.BuscaCliente.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Clientes.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CompraCliente.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CONDIMENTOS.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Config.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.CrearFacturas.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Crea_Cotizacion.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleArticulos.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.DetalleClientes.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Facturas.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.FrInicio.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Opciones_Impresion.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteClientes.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteFechas.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.ReporteVendedores.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Vendedores.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.VendedorSelecion.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\FlashControlV71.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\MySql.Data.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_cargar.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Fechas.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Cliente.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Inventario.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Agregar_Inventario.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Busca_Cliente.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Clientes.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Compra_Cliente.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Condimientos.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Config.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crear_Facturas.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crea_Cotizacion.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Articulos.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Clientes.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Facturas.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Inicio.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_Impresion.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Clientes.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Vendedores.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedores.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedor_Selecion.resources
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.manifest
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.application
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe.manifest
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.application
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.manifest
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.application
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Cliente.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Inventario.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Agregar_Inventario.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Busca_Cliente.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Clientes.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Compra_Cliente.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Condimientos.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Config.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crear_Facturas.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crea_Cotizacion.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Articulos.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Clientes.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Facturas.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Inicio.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_cargar.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_Impresion.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Clientes.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Fechas.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Vendedores.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedores.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedor_Selecion.resources
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe.manifest
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.application
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Esteban Mora\Documents\Facturacion Esteban\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Feria\Documents\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_motivo_reimpresion.resources
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.manifest
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.application
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportSource.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Shared.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Windows.Forms.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\FlashControlV71.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\ShockwaveFlashObjects.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Cliente.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Inventario.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Agregar_Inventario.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Busca_Cliente.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Clientes.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Compra_Cliente.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Condimientos.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Config.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crear_Facturas.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crea_Cotizacion.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Articulos.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Clientes.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Facturas.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Inicio.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_motivo_reimpresion.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_cargar.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_Impresion.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Clientes.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Fechas.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Vendedores.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedores.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedor_Selecion.resources
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe.manifest
+G:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.application
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.manifest
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.application
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Shared.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\FlashControlV71.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\ShockwaveFlashObjects.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Cliente.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Inventario.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Agregar_Inventario.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Busca_Cliente.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Clientes.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Compra_Cliente.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Condimientos.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Config.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crear_Facturas.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crea_Cotizacion.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Articulos.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Clientes.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Facturas.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Inicio.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_motivo_reimpresion.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_cargar.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_Impresion.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Clientes.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Fechas.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Vendedores.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedores.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedor_Selecion.resources
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe.manifest
+F:\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.application
+F:\Facturacion Esteban\Facturacion Esteban\bin\Release\MySql.Data.dll
+C:\Users\usuario\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\usuario\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\usuario\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\usuario\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\usuario\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.config
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe.manifest
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.application
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.exe
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.pdb
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\Facturacion Esteban.xml
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\bin\Release\stdole.dll
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Cliente.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Act_Inventario.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Agregar_Inventario.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Busca_Cliente.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Clientes.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Compra_Cliente.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Condimientos.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Config.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crear_Facturas.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Crea_Cotizacion.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Articulos.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Detalle_Clientes.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Facturas.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.fr_historial_productos_vendidos.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Inicio.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_motivo_reimpresion.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_cargar.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_vista_previa_factura.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Resources.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Opciones_Impresion.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Clientes.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Fechas.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Reporte_Vendedores.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedores.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion_Esteban.Fr_Vendedor_Selecion.resources
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe.manifest
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.application
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.exe
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.xml
+C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\obj\Release\Facturacion Esteban.pdb

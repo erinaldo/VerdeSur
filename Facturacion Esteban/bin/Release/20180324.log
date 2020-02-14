@@ -1,0 +1,20 @@
+
+
+
+24/03/2018 07:20:52 [LERROR] MysqlCon.vb::1111 - Error con excepción
+	Unable to connect to any of the specified MySQL hosts.
+	MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Host desconocido
+   en System.Net.Dns.GetAddrInfo(String name)
+   en System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   en System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   en MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   en MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.Driver.Open()
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Facturacion_Esteban.MysqlCon.SEL_CONFIG_FACTURA(String& p_nombre_empresa, String& p_numero_factura, Boolean& p_usar_impresora_termica, Boolean& p_usar_precios_anteriores, String& p_cabecera_1, String& p_cabecera_2, String& p_cabecera_3, String& p_cabecera_4, String& p_cabecera_5, String& p_cabecera_6, String& p_pie_factura) en C:\Users\Esteban laptop\Documents\Proyecto Douglas\Facturacion Esteban\Facturacion Esteban\Modulos\MysqlCon.vb:línea 1111
