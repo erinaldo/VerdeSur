@@ -22,20 +22,17 @@ Partial Class Fr_Facturas
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container()
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Fr_Facturas))
         Me.Tab_Opciones = New System.Windows.Forms.TabControl()
         Me.TabP_Facturas_Cerradas = New System.Windows.Forms.TabPage()
-        Me.lb_tiempo = New System.Windows.Forms.Label()
-        Me.btn_revisar = New System.Windows.Forms.Button()
         Me.Dgv_facturas_cerradas = New Facturacion_Esteban.MEPDataGridView()
         Me.c_nro_factura_c = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.c_fecha_c = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -61,6 +58,14 @@ Partial Class Fr_Facturas
         Me.Lb_Mensaje = New System.Windows.Forms.Label()
         Me.Btn_Agregar_2 = New System.Windows.Forms.Button()
         Me.Btn_Cerrar_Factura_2 = New System.Windows.Forms.Button()
+        Me.TabFacturasPagadas = New System.Windows.Forms.TabPage()
+        Me.dgvPagada = New Facturacion_Esteban.MEPDataGridView()
+        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn7 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn8 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn9 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn11 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.TabP_Reportes = New System.Windows.Forms.TabPage()
         Me.btnTiquete = New System.Windows.Forms.Button()
         Me.btn_productos = New System.Windows.Forms.Button()
@@ -107,20 +112,13 @@ Partial Class Fr_Facturas
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PB_Facturas = New System.Windows.Forms.PictureBox()
-        Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
-        Me.TabFacturasPagadas = New System.Windows.Forms.TabPage()
-        Me.DataGridViewTextBoxColumn11 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn9 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn8 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn7 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.dgvPagada = New Facturacion_Esteban.MEPDataGridView()
         Me.Tab_Opciones.SuspendLayout()
         Me.TabP_Facturas_Cerradas.SuspendLayout()
         CType(Me.Dgv_facturas_cerradas, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabP_Facturas_Abiertas.SuspendLayout()
         CType(Me.dgv_facturas_abiertas, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.TabFacturasPagadas.SuspendLayout()
+        CType(Me.dgvPagada, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabP_Reportes.SuspendLayout()
         Me.TabP_Facturas_Cobrar.SuspendLayout()
         Me.TabP_Cotizacion.SuspendLayout()
@@ -128,8 +126,6 @@ Partial Class Fr_Facturas
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PB_Facturas, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.TabFacturasPagadas.SuspendLayout()
-        CType(Me.dgvPagada, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Tab_Opciones
@@ -153,8 +149,6 @@ Partial Class Fr_Facturas
         'TabP_Facturas_Cerradas
         '
         Me.TabP_Facturas_Cerradas.BackColor = System.Drawing.Color.Gainsboro
-        Me.TabP_Facturas_Cerradas.Controls.Add(Me.lb_tiempo)
-        Me.TabP_Facturas_Cerradas.Controls.Add(Me.btn_revisar)
         Me.TabP_Facturas_Cerradas.Controls.Add(Me.Dgv_facturas_cerradas)
         Me.TabP_Facturas_Cerradas.Controls.Add(Me.Btn_Modificar_1)
         Me.TabP_Facturas_Cerradas.Controls.Add(Me.Btn_Imprimir_1)
@@ -167,26 +161,6 @@ Partial Class Fr_Facturas
         Me.TabP_Facturas_Cerradas.Size = New System.Drawing.Size(830, 343)
         Me.TabP_Facturas_Cerradas.TabIndex = 0
         Me.TabP_Facturas_Cerradas.Text = "Facturas"
-        '
-        'lb_tiempo
-        '
-        Me.lb_tiempo.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.lb_tiempo.Location = New System.Drawing.Point(6, 313)
-        Me.lb_tiempo.Name = "lb_tiempo"
-        Me.lb_tiempo.Size = New System.Drawing.Size(75, 16)
-        Me.lb_tiempo.TabIndex = 35
-        Me.lb_tiempo.Text = "0"
-        Me.lb_tiempo.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        '
-        'btn_revisar
-        '
-        Me.btn_revisar.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.btn_revisar.Location = New System.Drawing.Point(6, 281)
-        Me.btn_revisar.Name = "btn_revisar"
-        Me.btn_revisar.Size = New System.Drawing.Size(75, 29)
-        Me.btn_revisar.TabIndex = 9
-        Me.btn_revisar.Text = "Revisar"
-        Me.btn_revisar.UseVisualStyleBackColor = True
         '
         'Dgv_facturas_cerradas
         '
@@ -275,7 +249,7 @@ Partial Class Fr_Facturas
         Me.Btn_Imprimir_1.Font = New System.Drawing.Font("Monotype Corsiva", 14.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Btn_Imprimir_1.Image = Global.Facturacion_Esteban.My.Resources.Resources.Print
         Me.Btn_Imprimir_1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Btn_Imprimir_1.Location = New System.Drawing.Point(222, 274)
+        Me.Btn_Imprimir_1.Location = New System.Drawing.Point(140, 274)
         Me.Btn_Imprimir_1.Name = "Btn_Imprimir_1"
         Me.Btn_Imprimir_1.Size = New System.Drawing.Size(129, 56)
         Me.Btn_Imprimir_1.TabIndex = 5
@@ -289,7 +263,7 @@ Partial Class Fr_Facturas
         Me.Btn_Eliminar_1.Font = New System.Drawing.Font("Calisto MT", 14.25!)
         Me.Btn_Eliminar_1.Image = Global.Facturacion_Esteban.My.Resources.Resources.trashcan
         Me.Btn_Eliminar_1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Btn_Eliminar_1.Location = New System.Drawing.Point(357, 274)
+        Me.Btn_Eliminar_1.Location = New System.Drawing.Point(275, 274)
         Me.Btn_Eliminar_1.Name = "Btn_Eliminar_1"
         Me.Btn_Eliminar_1.Size = New System.Drawing.Size(136, 56)
         Me.Btn_Eliminar_1.TabIndex = 7
@@ -303,7 +277,7 @@ Partial Class Fr_Facturas
         Me.Btn_Salir_1.Font = New System.Drawing.Font("Calisto MT", 14.25!)
         Me.Btn_Salir_1.Image = Global.Facturacion_Esteban.My.Resources.Resources.exit_azul
         Me.Btn_Salir_1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Btn_Salir_1.Location = New System.Drawing.Point(499, 274)
+        Me.Btn_Salir_1.Location = New System.Drawing.Point(417, 274)
         Me.Btn_Salir_1.Name = "Btn_Salir_1"
         Me.Btn_Salir_1.Size = New System.Drawing.Size(99, 56)
         Me.Btn_Salir_1.TabIndex = 2
@@ -317,7 +291,7 @@ Partial Class Fr_Facturas
         Me.Btn_Crear_1.Font = New System.Drawing.Font("Calisto MT", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Btn_Crear_1.Image = Global.Facturacion_Esteban.My.Resources.Resources.InvoiceOff
         Me.Btn_Crear_1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Btn_Crear_1.Location = New System.Drawing.Point(91, 273)
+        Me.Btn_Crear_1.Location = New System.Drawing.Point(9, 273)
         Me.Btn_Crear_1.Name = "Btn_Crear_1"
         Me.Btn_Crear_1.Size = New System.Drawing.Size(125, 56)
         Me.Btn_Crear_1.TabIndex = 1
@@ -472,6 +446,83 @@ Partial Class Fr_Facturas
         Me.Btn_Cerrar_Factura_2.Text = "Pagar"
         Me.Btn_Cerrar_Factura_2.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.Btn_Cerrar_Factura_2.UseVisualStyleBackColor = True
+        '
+        'TabFacturasPagadas
+        '
+        Me.TabFacturasPagadas.BackColor = System.Drawing.Color.Gainsboro
+        Me.TabFacturasPagadas.Controls.Add(Me.dgvPagada)
+        Me.TabFacturasPagadas.Location = New System.Drawing.Point(4, 25)
+        Me.TabFacturasPagadas.Name = "TabFacturasPagadas"
+        Me.TabFacturasPagadas.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabFacturasPagadas.Size = New System.Drawing.Size(830, 343)
+        Me.TabFacturasPagadas.TabIndex = 5
+        Me.TabFacturasPagadas.Text = "Facturas Pagadas"
+        '
+        'dgvPagada
+        '
+        Me.dgvPagada.AllowUserToAddRows = False
+        Me.dgvPagada.AllowUserToDeleteRows = False
+        Me.dgvPagada.AllowUserToOrderColumns = True
+        Me.dgvPagada.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.dgvPagada.ColumnHeadersHeight = 40
+        Me.dgvPagada.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing
+        Me.dgvPagada.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn4, Me.DataGridViewTextBoxColumn7, Me.DataGridViewTextBoxColumn8, Me.DataGridViewTextBoxColumn9, Me.DataGridViewTextBoxColumn10, Me.DataGridViewTextBoxColumn11})
+        Me.dgvPagada.Location = New System.Drawing.Point(6, 6)
+        Me.dgvPagada.MultiSelect = False
+        Me.dgvPagada.Name = "dgvPagada"
+        Me.dgvPagada.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.dgvPagada.Size = New System.Drawing.Size(818, 313)
+        Me.dgvPagada.TabIndex = 9
+        '
+        'DataGridViewTextBoxColumn4
+        '
+        Me.DataGridViewTextBoxColumn4.HeaderText = "Nro. Factura"
+        Me.DataGridViewTextBoxColumn4.Name = "DataGridViewTextBoxColumn4"
+        Me.DataGridViewTextBoxColumn4.ReadOnly = True
+        Me.DataGridViewTextBoxColumn4.Width = 95
+        '
+        'DataGridViewTextBoxColumn7
+        '
+        DataGridViewCellStyle5.Format = "d"
+        DataGridViewCellStyle5.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn7.DefaultCellStyle = DataGridViewCellStyle5
+        Me.DataGridViewTextBoxColumn7.HeaderText = "Fecha"
+        Me.DataGridViewTextBoxColumn7.Name = "DataGridViewTextBoxColumn7"
+        Me.DataGridViewTextBoxColumn7.ReadOnly = True
+        Me.DataGridViewTextBoxColumn7.Width = 98
+        '
+        'DataGridViewTextBoxColumn8
+        '
+        Me.DataGridViewTextBoxColumn8.HeaderText = "Vendido A:"
+        Me.DataGridViewTextBoxColumn8.Name = "DataGridViewTextBoxColumn8"
+        Me.DataGridViewTextBoxColumn8.ReadOnly = True
+        Me.DataGridViewTextBoxColumn8.Width = 335
+        '
+        'DataGridViewTextBoxColumn9
+        '
+        Me.DataGridViewTextBoxColumn9.HeaderText = "Vendedor"
+        Me.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9"
+        Me.DataGridViewTextBoxColumn9.ReadOnly = True
+        '
+        'DataGridViewTextBoxColumn10
+        '
+        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle6.Format = "N2"
+        DataGridViewCellStyle6.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn10.DefaultCellStyle = DataGridViewCellStyle6
+        Me.DataGridViewTextBoxColumn10.HeaderText = "Total C."
+        Me.DataGridViewTextBoxColumn10.Name = "DataGridViewTextBoxColumn10"
+        Me.DataGridViewTextBoxColumn10.ReadOnly = True
+        Me.DataGridViewTextBoxColumn10.Width = 130
+        '
+        'DataGridViewTextBoxColumn11
+        '
+        Me.DataGridViewTextBoxColumn11.HeaderText = "factura cerrada id"
+        Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
+        Me.DataGridViewTextBoxColumn11.ReadOnly = True
+        Me.DataGridViewTextBoxColumn11.Visible = False
         '
         'TabP_Reportes
         '
@@ -962,87 +1013,6 @@ Partial Class Fr_Facturas
         Me.PB_Facturas.TabIndex = 8
         Me.PB_Facturas.TabStop = False
         '
-        'Timer1
-        '
-        Me.Timer1.Interval = 1000
-        '
-        'TabFacturasPagadas
-        '
-        Me.TabFacturasPagadas.BackColor = System.Drawing.Color.Gainsboro
-        Me.TabFacturasPagadas.Controls.Add(Me.dgvPagada)
-        Me.TabFacturasPagadas.Location = New System.Drawing.Point(4, 25)
-        Me.TabFacturasPagadas.Name = "TabFacturasPagadas"
-        Me.TabFacturasPagadas.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabFacturasPagadas.Size = New System.Drawing.Size(830, 343)
-        Me.TabFacturasPagadas.TabIndex = 5
-        Me.TabFacturasPagadas.Text = "Facturas Pagadas"
-        '
-        'DataGridViewTextBoxColumn11
-        '
-        Me.DataGridViewTextBoxColumn11.HeaderText = "factura cerrada id"
-        Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
-        Me.DataGridViewTextBoxColumn11.ReadOnly = True
-        Me.DataGridViewTextBoxColumn11.Visible = False
-        '
-        'DataGridViewTextBoxColumn10
-        '
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle6.Format = "N2"
-        DataGridViewCellStyle6.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn10.DefaultCellStyle = DataGridViewCellStyle6
-        Me.DataGridViewTextBoxColumn10.HeaderText = "Total C."
-        Me.DataGridViewTextBoxColumn10.Name = "DataGridViewTextBoxColumn10"
-        Me.DataGridViewTextBoxColumn10.ReadOnly = True
-        Me.DataGridViewTextBoxColumn10.Width = 130
-        '
-        'DataGridViewTextBoxColumn9
-        '
-        Me.DataGridViewTextBoxColumn9.HeaderText = "Vendedor"
-        Me.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9"
-        Me.DataGridViewTextBoxColumn9.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn8
-        '
-        Me.DataGridViewTextBoxColumn8.HeaderText = "Vendido A:"
-        Me.DataGridViewTextBoxColumn8.Name = "DataGridViewTextBoxColumn8"
-        Me.DataGridViewTextBoxColumn8.ReadOnly = True
-        Me.DataGridViewTextBoxColumn8.Width = 335
-        '
-        'DataGridViewTextBoxColumn7
-        '
-        DataGridViewCellStyle5.Format = "d"
-        DataGridViewCellStyle5.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn7.DefaultCellStyle = DataGridViewCellStyle5
-        Me.DataGridViewTextBoxColumn7.HeaderText = "Fecha"
-        Me.DataGridViewTextBoxColumn7.Name = "DataGridViewTextBoxColumn7"
-        Me.DataGridViewTextBoxColumn7.ReadOnly = True
-        Me.DataGridViewTextBoxColumn7.Width = 98
-        '
-        'DataGridViewTextBoxColumn4
-        '
-        Me.DataGridViewTextBoxColumn4.HeaderText = "Nro. Factura"
-        Me.DataGridViewTextBoxColumn4.Name = "DataGridViewTextBoxColumn4"
-        Me.DataGridViewTextBoxColumn4.ReadOnly = True
-        Me.DataGridViewTextBoxColumn4.Width = 95
-        '
-        'dgvPagada
-        '
-        Me.dgvPagada.AllowUserToAddRows = False
-        Me.dgvPagada.AllowUserToDeleteRows = False
-        Me.dgvPagada.AllowUserToOrderColumns = True
-        Me.dgvPagada.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-            Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.dgvPagada.ColumnHeadersHeight = 40
-        Me.dgvPagada.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing
-        Me.dgvPagada.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn4, Me.DataGridViewTextBoxColumn7, Me.DataGridViewTextBoxColumn8, Me.DataGridViewTextBoxColumn9, Me.DataGridViewTextBoxColumn10, Me.DataGridViewTextBoxColumn11})
-        Me.dgvPagada.Location = New System.Drawing.Point(6, 6)
-        Me.dgvPagada.MultiSelect = False
-        Me.dgvPagada.Name = "dgvPagada"
-        Me.dgvPagada.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgvPagada.Size = New System.Drawing.Size(818, 313)
-        Me.dgvPagada.TabIndex = 9
-        '
         'Fr_Facturas
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1070,6 +1040,8 @@ Partial Class Fr_Facturas
         CType(Me.Dgv_facturas_cerradas, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabP_Facturas_Abiertas.ResumeLayout(False)
         CType(Me.dgv_facturas_abiertas, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.TabFacturasPagadas.ResumeLayout(False)
+        CType(Me.dgvPagada, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabP_Reportes.ResumeLayout(False)
         Me.TabP_Facturas_Cobrar.ResumeLayout(False)
         Me.TabP_Facturas_Cobrar.PerformLayout()
@@ -1079,8 +1051,6 @@ Partial Class Fr_Facturas
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PB_Facturas, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.TabFacturasPagadas.ResumeLayout(False)
-        CType(Me.dgvPagada, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -1157,9 +1127,6 @@ Partial Class Fr_Facturas
     Friend WithEvents DataGridViewTextBoxColumn2 As DataGridViewTextBoxColumn
     Friend WithEvents DataGridViewTextBoxColumn3 As DataGridViewTextBoxColumn
     Friend WithEvents DataGridViewTextBoxColumn5 As DataGridViewTextBoxColumn
-    Friend WithEvents Timer1 As Timer
-    Friend WithEvents btn_revisar As Button
-    Friend WithEvents lb_tiempo As Label
     Friend WithEvents btnTiquete As Button
     Friend WithEvents TabFacturasPagadas As TabPage
     Friend WithEvents dgvPagada As MEPDataGridView

@@ -7,6 +7,8 @@ Module MysqlCon
     Dim MysqlCon As MySqlConnection
     Dim cmd As MySqlCommand
     Dim dr As MySqlDataReader
+    Public _ClienteServidor = ""
+
     'REVISA INGRESO DE DETALLE DE FACTURA SATISFACORIO
     Dim fdet_resultado As Double = False
 
@@ -18,8 +20,12 @@ Module MysqlCon
 
         'CONECCION DE LA VERSION FINAL
         MysqlCon = New MySqlConnection
+
         MysqlCon.ConnectionString = "server=localhost;userid=root;password=BDFERIA;database=BDFERIA;Allow Zero Datetime=True;Convert Zero Datetime=True;"
-        'MysqlCon.ConnectionString = "server=http://esteban2601pro.duckdns.org;userid=serverferia;password=BDFERIA;database=BDFERIA;Allow Zero Datetime=True;Convert Zero Datetime=True;"
+        _ClienteServidor = " SERVIDOR"
+
+        'MysqlCon.ConnectionString = "server=186.15.40.161;userid=root;password=BDFERIA;database=BDFERIA;Allow Zero Datetime=True;Convert Zero Datetime=True;"
+        '_ClienteServidor = " CLIENTE"
 
     End Sub
 

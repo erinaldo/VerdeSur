@@ -382,11 +382,11 @@ Public Class Fr_Facturas
     'CARGA LAS VARIABLES DE INICIO
     Private Sub inicio()
 
+        Me.Text = Me.Text & _ClienteServidor
         limpia_variablesBD_Modulo()
         tipo_impresion = "NULA"
         SEL_CONFIG_FACTURA(nombre_empresa, numero_factura, usar_impresora_termica, usar_precios_anteriores, cabecera_1,
             cabecera_2, cabecera_3, cabecera_4, cabecera_5, cabecera_6, pie_pagina)
-        Timer1.Start()
         cabeceraFactura(0) = cabecera_1
         cabeceraFactura(1) = cabecera_2
         cabeceraFactura(2) = cabecera_3
@@ -425,6 +425,7 @@ Public Class Fr_Facturas
     Private Sub Facturas_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
         inicio()
+
 
     End Sub
 
@@ -1457,7 +1458,7 @@ Public Class Fr_Facturas
 
     End Sub
 
-    Private Sub Button2_Click_2(sender As Object, e As EventArgs) Handles btn_revisar.Click
+    Private Sub Button2_Click_2(sender As Object, e As EventArgs)
         tiempo = 298
     End Sub
 

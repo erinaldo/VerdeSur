@@ -372,7 +372,7 @@ Public Class Fr_Crear_Facturas
     Private Sub inicio()
 
         'Inicio la Configuracion por parte del usuario
-
+        Me.Text = Me.Text & _ClienteServidor
         limpia_variablesBD_Modulo()
         DGV_Facturas.FillEmptyArea = True
         Lb_Numero_Linea.Parent = cb_barcode
