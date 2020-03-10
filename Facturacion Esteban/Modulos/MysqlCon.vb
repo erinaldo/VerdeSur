@@ -21,11 +21,11 @@ Module MysqlCon
         'CONECCION DE LA VERSION FINAL
         MysqlCon = New MySqlConnection
 
-        MysqlCon.ConnectionString = "server=localhost;userid=root;password=BDFERIA;database=BDFERIA;Allow Zero Datetime=True;Convert Zero Datetime=True;"
-        _ClienteServidor = " SERVIDOR"
+        'MysqlCon.ConnectionString = "server=localhost;userid=root;password=BDFERIA;database=BDFERIA;Allow Zero Datetime=True;Convert Zero Datetime=True;"
+        '_ClienteServidor = " SERVIDOR"
 
-        'MysqlCon.ConnectionString = "server=186.15.40.161;userid=root;password=BDFERIA;database=BDFERIA;Allow Zero Datetime=True;Convert Zero Datetime=True;"
-        '_ClienteServidor = " CLIENTE"
+        MysqlCon.ConnectionString = "server=186.15.40.161;userid=root;password=BDFERIA;database=BDFERIA;Allow Zero Datetime=True;Convert Zero Datetime=True;"
+        _ClienteServidor = " CLIENTE"
 
     End Sub
 

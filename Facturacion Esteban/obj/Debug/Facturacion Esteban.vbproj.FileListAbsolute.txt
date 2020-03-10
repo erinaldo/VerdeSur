@@ -682,3 +682,65 @@ C:\Users\estem\Documents\Verde Sur\VerdeSur\Facturacion Esteban\obj\Debug\Factur
 C:\Users\estem\Documents\Verde Sur\VerdeSur\Facturacion Esteban\obj\Debug\Facturacion Esteban.exe
 C:\Users\estem\Documents\Verde Sur\VerdeSur\Facturacion Esteban\obj\Debug\Facturacion Esteban.xml
 C:\Users\estem\Documents\Verde Sur\VerdeSur\Facturacion Esteban\obj\Debug\Facturacion Esteban.pdb
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\Facturacion Esteban.exe.config
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\Facturacion Esteban.exe.manifest
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\Facturacion Esteban.application
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\Facturacion Esteban.exe
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\Facturacion Esteban.pdb
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\Facturacion Esteban.xml
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\FlashControlV71.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\bin\Debug\stdole.dll
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.vbprojResolveAssemblyReference.cache
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.vbproj.ResolveComReference.cache
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.FrTiquete.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Act_Cliente.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Act_Inventario.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Agregar_Inventario.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Busca_Cliente.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Clientes.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Compra_Cliente.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Condimientos.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Config.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Crear_Facturas.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Crea_Cotizacion.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Detalle_Articulos.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Detalle_Clientes.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Facturas.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.fr_historial_productos_vendidos.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Inicio.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_motivo_reimpresion.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Opciones_cargar.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_vista_previa_factura.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Resources.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Opciones_Impresion.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Reporte_Clientes.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Reporte_Fechas.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Reporte_Vendedores.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.RP_CLIENTES.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.RP_Fecha.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.RP_Vendedores.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Vendedores.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion_Esteban.Fr_Vendedor_Selecion.resources
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.vbproj.GenerateResource.Cache
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.exe.manifest
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.application
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.exe
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.xml
+C:\Users\estem\Documents\Verde Sur\Facturacion Esteban\obj\Debug\Facturacion Esteban.pdb
