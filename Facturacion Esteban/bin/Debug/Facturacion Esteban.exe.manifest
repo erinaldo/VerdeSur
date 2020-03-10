@@ -240,14 +240,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Facturacion Esteban.exe" size="3759104">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Facturacion Esteban.exe" size="4785664">
       <assemblyIdentity name="Facturacion Esteban" version="5.0.1.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>oa8D9fbQLX+4lC7CG4Nw7uofvlo=</dsig:DigestValue>
+        <dsig:DigestValue>WQYGkrM9+j1p8lY7ugZFakl2WOw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

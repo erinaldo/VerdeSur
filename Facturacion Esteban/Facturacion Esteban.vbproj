@@ -450,6 +450,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\bill_of_document.ico" />
+    <None Include="Resources\LogoVerdeSur.png" />
     <None Include="Resources\convert2.png" />
     <None Include="Resources\convert1.png" />
     <None Include="Resources\images1.jpg" />
